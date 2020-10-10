@@ -3,3 +3,9 @@ node_modules/
 
 # Mac only
 .DS_Store
+
+# Generated files
+src/**/*.js
+src/**/*.map
+db/**/*.js
+db/**/*.map
